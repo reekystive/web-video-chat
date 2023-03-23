@@ -8,6 +8,6 @@ const routes = [
 ]
 
 export default VueRouter.createRouter({
-  history: VueRouter.createWebHashHistory(),
+  history: VueRouter.createWebHistory(),
   routes,
 })
