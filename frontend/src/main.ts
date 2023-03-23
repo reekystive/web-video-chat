@@ -1,8 +1,8 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-import vuetify from './plugins/vuetify.ts'
-import router from './plugins/router.ts'
-import i18n from './plugins/i18n.ts'
+import vuetify from './plugins/vuetify'
+import router from './plugins/router'
+import i18n from './plugins/i18n'
 
 
 createApp(App)
